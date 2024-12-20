@@ -58,7 +58,7 @@ Let’s build something great together!
 
 <br><br><br>
 ## 📧 **Contact**
-**Email**: fromyourbunny@gmail.com
+**Email**: fromyourbunny@gmail.com <br>
 **GitHub**: [frombunny](https://github.com/frombunny)
 
 <br><br>
