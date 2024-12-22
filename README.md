@@ -18,7 +18,8 @@ Let’s build something great together!
 **2025 ~ ing HSU 멋쟁이사자처럼 13기 대표 및 BE 팀장** <br>
 
 ---
-<br><br>
+<br>
+
 ## 🔧 **Tech Stack**
 ### 🛠 **Skills**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge" alt="C" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge" alt="Spring Boot" />
@@ -30,7 +31,8 @@ Let’s build something great together!
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge" alt="Notion" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" /> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge" alt="JetBrains" />
     
 ---
-<br><br>
+<br>
+
 ## 💼 **Projects**
 | **기간**      | **프로젝트명** | **링크**                       | **역할**     | **기타**     |
 |--------------|--------------|--------------------------------------|------------|------------|
@@ -42,31 +44,30 @@ Let’s build something great together!
     
 ---
    
-<br><br>
+<br>
+
 ## 📈 **Stats**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=frombunny&hide=contribs,prs&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-bottom: 10px;" />
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=frombunny&hide=contribs,prs&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <a href="https://github.com/frombunny">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frombunny&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frombunny&layout=compact&theme=radical" alt="Top Languages" style="height:150px;" />
 </a>
 
-<br><br>
+<br>
+
  [![Solved.ac
- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou)](https://solved.ac/bunnylovesyou)
- [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=bunnylovesyou)](https://solved.ac/bunnylovesyou/)
- 
- 
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=frombunny)](https://solved.ac/frombunny)
+ [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=frombunny)](https://solved.ac/frombunny/)
     
-<br><br><br>
+<br>
+
 ## 📧 **Contact**
 **Email**: fromyourbunny@gmail.com <br>
 **GitHub**: [frombunny](https://github.com/frombunny)
 
-<br><br>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer"/>
 <div align="center">
     
