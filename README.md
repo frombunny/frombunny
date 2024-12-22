@@ -9,7 +9,7 @@ I’m always excited to tackle new challenges and collaborate with others in the
 Let’s build something great together!
     
 ---
-<br><br>
+<br>
 
 ## 🐰 **Activities**
 
@@ -53,9 +53,14 @@ Let’s build something great together!
 <a href="https://github.com/frombunny">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frombunny&layout=compact&theme=radical" alt="Top Languages" />
 </a>
-    
-<br><br>
 
+<br><br>
+ [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou)](https://solved.ac/bunnylovesyou)
+ [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=bunnylovesyou)](https://solved.ac/bunnylovesyou/)
+ 
+ 
+    
 <br><br><br>
 ## 📧 **Contact**
 **Email**: fromyourbunny@gmail.com <br>
