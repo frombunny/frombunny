@@ -36,11 +36,11 @@ Let’s build something great together!
 ## 💼 **Projects**
 | **기간**      | **프로젝트명** | **링크**                       | **역할**     | **기타**     |
 |--------------|--------------|--------------------------------------|------------|------------|
-| 2024.05 | [2024 멋쟁이사자처럼 부기톤] 동물 입양 및 분양 플랫폼, 하이펫 | [GitHub](https://github.com/HSU-Likelion-HiPet/HiPet-BackEnd) | Backend | 교내 해커톤 |
-| 2024.07~2024.08 | [2024 멋쟁이사자처럼 중앙해커톤] 중장년층을 위한 멘토링 및 모임 커뮤니티 | [GitHub](https://github.com/HSU-LikeLion-RePlay/RePlay-Backend) | Backend | - |
-| 2024.07~2024.09 | [2024 한성공학경진대회] 천식 환자를 위한 딥러닝 기반 호흡 관리 어플리케이션, 쉼표 | [GitHub](https://github.com/HSU-shimpyo/ShimPyo-Server) | Backend | 은상 🏆 |
-| 2024.09~2024.11 | [2024 HSU SW프리캡스톤] AI 기반 맞춤형 상담 서비스, 펴닝 | [GitHub](https://github.com/HSU-NIMBUS2000/Pyeoning-Frontend) | Frontend | 최우수상 🏆 |
-| 2024.12 | [개인 프로젝트]나만의 리드미 생성기 | [GitHub](https://github.com/frombunny/ReadMeForBunny) | Frontend | 미니 프로젝트 |
+| 2024.05 | [2024 멋쟁이사자처럼 부기톤] 하이펫 : 동물 입양 및 분양 플랫폼| [GitHub](https://github.com/HSU-Likelion-HiPet/HiPet-BackEnd) | Backend | 교내 해커톤 |
+| 2024.07~2024.08 | [2024 멋쟁이사자처럼 중앙해커톤] 리플레이 : 중장년층을 위한 멘토링 및 모임 커뮤니티 | [GitHub](https://github.com/HSU-LikeLion-RePlay/RePlay-Backend) | Backend | - |
+| 2024.07~2024.09 | [2024 한성공학경진대회] 쉼표 : 천식 환자를 위한 딥러닝 기반 호흡 관리 어플리케이션 | [GitHub](https://github.com/HSU-shimpyo/ShimPyo-Server) | Backend | 은상 🏆 |
+| 2024.09~2024.11 | [2024 HSU SW프리캡스톤] 펴닝 : AI 기반 맞춤형 상담 서비스 | [GitHub](https://github.com/HSU-NIMBUS2000/Pyeoning-Frontend) | Frontend | 최우수상 🏆 |
+| 2024.12 | [개인 프로젝트] 나만의 리드미 생성기 | [GitHub](https://github.com/frombunny/ReadMeForBunny) | Frontend | 개인 프로젝트 |
     
 ---
    
