@@ -28,7 +28,7 @@ Let’s build something great together!
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL" />
     
 ### 🛠 **Tools**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge" alt="Notion" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" /> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge" alt="JetBrains" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" alt="Postman" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" alt="GitHub" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" />
     
 ---
 <br>
