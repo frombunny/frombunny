@@ -57,11 +57,13 @@ Let’s build something great together!
 
 <br>
 
+<!--
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou)](https://solved.ac/bunnylovesyou)
  [![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=bunnylovesyou)](https://solved.ac/bunnylovesyou/)
     
 <br>
+-->
 
 ## 📧 **Contact**
 **Email**: fromyourbunny@gmail.com <br>
