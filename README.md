@@ -38,17 +38,6 @@ Let’s build something great together!
 
 <br><br>
 
-## 🩷 **Projects**
-| **period**      | **project** | **part**     | **etc**     |
-|--------------|--------------|------------|------------|
-| 2024.05 | [[2024 멋쟁이사자처럼 부기톤] 하이펫 : 동물 입양 및 분양 플랫폼](https://github.com/HSU-Likelion-HiPet/HiPet-BackEnd) | Backend | - |
-| 2024.07~2024.08 | [[2024 멋쟁이사자처럼 중앙해커톤] 리플레이 : 중장년층을 위한 멘토링 및 모임 커뮤니티](https://github.com/HSU-LikeLion-RePlay/RePlay-Backend) | Backend | - |
-| 2024.07~2024.09 | [[2024 한성공학경진대회] 쉼표 : 천식 환자를 위한 딥러닝 기반 호흡 관리 어플리케이션](https://github.com/HSU-shimpyo/ShimPyo-Server) | Backend | 은상 🏆 |
-| 2024.09~2024.11 | [[2024 HSU SW프리캡스톤] 펴닝 : AI 기반 맞춤형 상담 서비스](https://github.com/HSU-NIMBUS2000/Pyeoning-Frontend) | Frontend | 최우수상 🏆 |
-| 2024.12 | [[개인 프로젝트] 나만의 리드미 생성기](https://github.com/frombunny/ReadMeForBunny) | Frontend | 개인 프로젝트 |
-
-<br><br>
-
 ## 📈 **Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=frombunny&hide=contribs,prs&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
