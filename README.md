@@ -2,15 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB6C1&text=Lim%20Hye-Jeong&fontColor=FF69B4&fontSize=42&fontAlignY=45&desc=Backend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
 </p>
 
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://solved.ac/bunnylovesyou">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bunnylovesyou" height="20" />
+  </a>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="20"/>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2600&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=The+only+way+to+do+great+work+is+to+love+what+you+do;Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand." />
 </p>
 
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF8FAB/frombunny" alt="frombunny's Github chart" width="90%"/>
+</p>
 
-<br>
-
----
 
 <br>
 
@@ -21,9 +31,6 @@ Following **SOLID principles** and **Clean Architecture**, I design systems that
 
 My goal is not just to write working code, but to build codebases that communicate well with people.
 
-<br>
-
----
 
 <br>
 
@@ -49,9 +56,6 @@ My goal is not just to write working code, but to build codebases that communica
 >한성대학교 멋쟁이사자처럼 12기 아기사자로 활동하며, 백엔드 개발에 대한 기초를 다지고 다양한 팀 프로젝트와 해커톤에 참여했습니다. 
 >정기 세션과 스터디를 통해 백엔드 기술을 학습하고, 다른 분야 팀원들과의 협업 경험을 통해 개발자로서의 실력을 성장시켰습니다.
 
-<br>
-
----
 
 <br>
 
@@ -60,7 +64,6 @@ My goal is not just to write working code, but to build codebases that communica
 **🥉 2025.05 | 한성대학교 컴퓨터공학부 캡스톤디자인 장려상**  
 > 👁️ **아이온(EyeON)** — *시각장애인을 위한 AI 기반 서류 작성 지원 플랫폼*
 > 
-> - 프로젝트 기획 및 와이어프레임 설계
 > - **Spring Security + JWT** 기반 인증 및 인가 구현  
 > - **Apache PDFBox** 활용한 문서 자동 작성 기능 개발  
 > - **GitHub Actions + Docker** 기반 **CI/CD 파이프라인 구축**  
@@ -80,15 +83,11 @@ My goal is not just to write working code, but to build codebases that communica
 **🥈 2024.09 | 제20회 한성공학경진대회 은상**  
 > 🌬️ **쉼표(Shimpyo)** — *딥러닝 기반 천식 환자 호흡 관리 앱*
 > 
-> - **Librosa 기반 MFCC 특징 추출 + 데이터 증강**  
-> - **TensorFlow MLP 모델**을 이용한 PEF 예측 회귀 모델 학습  
+> - **Librosa 기반 MFCC 특징 추출 + 데이터 증강**, **TensorFlow MLP 모델**을 이용한 PEF 예측 회귀 모델 학습  
 > - **Flask REST API**로 모델 서빙 및 **Spring Boot 통합 백엔드 구성**  
 > - **GitHub Actions + Docker** 기반 **CI/CD 파이프라인 구축**  
 > - `Python` `TensorFlow` `Librosa` `Flask` `Java` `Spring Boot` `MySQL` `AWS (EC2/RDS/S3)` `Docker` `GitHub Actions` `Nginx` 
  
-<br>
-
----
 
 <br>
 
@@ -120,19 +119,19 @@ My goal is not just to write working code, but to build codebases that communica
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+
+<br>
 <br>
 
 ---
-
 
 <br>
 
 <p align="center">
   <a href="https://solved.ac/bunnylovesyou">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou&theme=dark" width="38%" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou&theme=dark" width="35%" />
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=bunnylovesyou&theme=cold" width="38%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=bunnylovesyou&theme=cold" width="35%"/>
 </p>
 
-
-
+</p>
