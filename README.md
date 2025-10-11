@@ -25,9 +25,7 @@
 <br>
 
 ## 🪄 About Me
-Hi, I'm **Hye-Jeong Lim**, a backend developer who builds reliable and maintainable systems through clear architecture and solid principles.  
-I focus on consistency, scalability, and design clarity rather than quick implementation.  
-Following **SOLID principles** and **Clean Architecture**, I design systems that are predictable, testable, and easy to evolve.  
+Hi, I'm **Hye-Jeong Lim**, a backend developer who builds reliable and maintainable systems through clear architecture and solid principles. I focus on consistency, scalability, and design clarity rather than quick implementation. Following **SOLID principles** and **Clean Architecture**, I design systems that are predictable, testable, and easy to evolve.  
 
 My goal is not just to write working code, but to build codebases that communicate well with people.
 
@@ -39,8 +37,8 @@ My goal is not just to write working code, but to build codebases that communica
 **🦁 한성대학교 멋쟁이사자처럼 13기 — 대표 & 백엔드 팀장**  
 *2025.01 ~ ing*  
 >한성대학교 멋쟁이사자처럼 13기 대표 및 백엔드 팀장으로 활동하며, 운영 전반을 총괄하고 백엔드 세션을 이끌고 있습니다.
->아기사자들의 성장과 역량 강화를 목표로 하여, 스프링부트 커리큘럼을 직접 기획하고 세션을 진행하고 있습니다.
->뿐만 아니라 학습 자료와 과제를 제작하고, 코드 리뷰 또한 담당하고 있습니다. 프로젝트 개발 과정에서는 핵심 구조 설계와 기술 방향성을 설정하며 아기사자들이 안정적으로 개발을 이어갈 수 있도록 피드백을 제공하고 있습니다.
+>아기사자들의 성장을 목표로 하여, 스프링부트 커리큘럼을 직접 기획하고 세션을 진행하고 있습니다.
+>뿐만 아니라 학습 자료와 과제 제작 및 코드 리뷰를 담당하며, 프로젝트 개발 과정에서는 핵심 구조 설계와 기술 방향성을 설정하여 아기사자들이 안정적으로 개발을 이어갈 수 있도록 피드백을 제공하고 있습니다.
 
 <br>
 
