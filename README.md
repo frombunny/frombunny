@@ -1,23 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB6C1&text=Lim%20Hye-Jeong&fontColor=FF69B4&fontSize=42&fontAlignY=45&desc=Backend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
-</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://solved.ac/bunnylovesyou">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bunnylovesyou" height="20" />
-  </a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" height="20"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="20"/>
-</p>
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF8FAB/frombunny" alt="frombunny's Github chart" width="90%"/>
-</p>
-
-<br>
-
 ## 🏃 Experience
 **🪐 우아한테크코스 8기 — 백엔드 크루**  
 *2026.02 ~ ing* 
@@ -26,7 +6,7 @@
 *2025.01 ~ 2025.12* 
 
 **🏫 한성대학교 학생개발자(HSD) — 서버 개발자**  
-*2024.12 ~ ing*
+*2024.12 ~ 2026.02*
 
 **🦁 한성대학교 멋쟁이사자처럼 12기 — 백엔드 아기사자**  
 *2024.03 ~ 2024.12* 
@@ -63,17 +43,3 @@
 
 
 <br>
-<br>
-
----
-
-<br>
-
-<p align="center">
-  <a href="https://solved.ac/bunnylovesyou">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bunnylovesyou&theme=dark" width="35%" />
-  </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=bunnylovesyou&theme=cold" width="35%"/>
-</p>
-
-</p>
